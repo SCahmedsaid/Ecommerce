@@ -1,0 +1,178 @@
+﻿@model Brand
+@{
+    ViewData["Title"] = "Brand Products";
+}
+
+
+<!-- BEGIN: Content-->
+<div class="app-content content">
+    <div class="content-overlay"></div>
+    <div class="content-wrapper">
+        <div class="content-header row">
+            <div class="content-header-left col-12 mb-2 mt-1">
+                <div class="row breadcrumbs-top">
+                    <div class="col-12">
+                        <h5 class="content-header-title float-left pr-1 mb-0">Where are you : </h5>
+                        <div class="breadcrumb-wrapper col-12">
+                            <ol class="breadcrumb p-0 mb-0">
+                                <li class="breadcrumb-item">
+                                    <a><i class="bx bx-home-alt"></i></a>
+                                </li>
+                                <li class="breadcrumb-item">
+                                    <a>Brands</a>
+                                </li>
+                                <li class="breadcrumb-item active">
+                                    Products List
+                                </li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content-body">
+            <!-- Description -->
+            <section id="description" class="card">
+                <div class="card-header">
+                    <h3 class="card-title">
+
+                        @Model.Name : Products List
+                    </h3>
+                </div>
+                <div class="card-content">
+                    <div class="card-body">
+                        <table class="table table-striped" id="tbl">
+                            <thead>
+                                <tr>
+                                    <th>Product Name</th>
+                                    <th>Product Price</th>
+                                    <th>Operations</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (!Model.Products.Any())
+                                {
+                                    <tr>
+                                        <td colspan="3">
+                                            <h2 class="text-danger text-center">There is no Products yet.</h2>
+                                        </td>
+                                    </tr>
+                                }
+                                @foreach (var product in Model.Products.Where(x => !x.IsDeleted))
+                                {
+                                    <tr>
+                                        <td>@product.Title</td>
+                                        <td>@product.Price</td>
+                                        <td>
+                                            <a class="btn btn-danger deleteForm" style="color: #FFF !important; top: unset !important"
+                                               asp-route-id="@product.Id"
+                                               asp-action="Delete" asp-controller="Products">
+                                                <i style="color: #FFF !important; top: unset !important" class="fa fa-trash-o"></i>
+                                            </a>
+                                            <a class="btn btn-primary" style="color: #FFF !important; top: unset !important"
+                                               asp-route-id="@product.Id"
+                                               asp-action="Update" asp-controller="Products">
+                                                <i style="color: #FFF !important; top: unset !important" class="fa fa-edit"></i>
+                                            </a>
+                                            <a class="btn btn-success" onclick="GetProductComments(@product.Id)" style="color: #FFF !important; top: unset !important"
+                                               href="#">
+                                                <i style="color: #FFF !important; top: unset !important" class="fa fa-address-card"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                }CommentsDetails
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+            <!--/ Description -->
+
+
+        </div>
+    </div>
+</div>
+<!-- END: Content-->
+@section Scripts
+{
+    <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js" type="text/javascript"></script>
+
+    <script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js" type="text/javascript"></script>
+
+
+    <script src="~/lib/bootbox.js/bootbox.js"></script>
+
+    <script>
+        $('#tbl').DataTable({
+            //paging: false,
+
+        });
+
+        $('.deleteForm').click(function (e) {
+            let event = e;
+            e.preventDefault();
+            bootbox.confirm({
+                message: "Are you sure you want to delete ?",
+                buttons: {
+                    confirm: {
+                        label: 'Yes',
+                        className: 'btn-success'
+                    },
+                    cancel: {
+                        label: 'No',
+                        className: 'btn-danger'
+                    }
+                },
+                callback: function (result) {
+                    if (result) {
+                        if (e.target.href) {
+                            window.location.href = e.target.href;
+                        } else {
+                            window.location.href = e.target.parentElement.href;
+                        }
+                    }
+                }
+            });
+
+        });
+
+        function GetProductComments(productId) {
+            fetch('/Admin/Comments/List/' + productId)
+                .then(response => {
+                    return response.text();
+                }).then(response => {
+                    // Initialize the DOM parser
+                    var parser = new DOMParser();
+                    // Parse the text
+                    var doc = parser.parseFromString(response, "text/html");
+                    console.log(doc);
+                    document.querySelector('#CommentsDetailsDiv').innerHTML = doc.querySelector('#content').innerHTML;
+                    $('#CommentsDetails').modal('show');
+                });
+        }
+
+    </script>
+}
+
+
+<!-- Modal -->
+<div class="modal fade" id="CommentsDetails" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Comments Details</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="CommentsDetailsDiv"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>

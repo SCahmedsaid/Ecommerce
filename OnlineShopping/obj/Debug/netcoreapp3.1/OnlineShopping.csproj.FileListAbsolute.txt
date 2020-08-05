@@ -1,0 +1,368 @@
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\libman.json
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.exe
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.deps.json
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.runtimeconfig.json
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.runtimeconfig.dev.json
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.pdb
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.Views.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.Views.pdb
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.csprojAssemblyReference.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.csproj.CoreCompileInputs.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.RazorAssemblyInfo.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.RazorAssemblyInfo.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.AssemblyInfoInputs.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.AssemblyInfo.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.TagHelpers.input.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.TagHelpers.output.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.RazorCoreGenerate.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Auth\ChangePassword.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Auth\Login.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Add.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\List.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\List.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Dashboard.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\List.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Add.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\ListOverBrands.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\ListOverCategories.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Cart\DisplayCart.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetCategoryItems.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetDayDeals.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Product\GetComments.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Product\GetFavourite.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Brand.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Category.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Layout.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Search.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_subLayout.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.RazorTargetAssemblyInfo.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.RazorTargetAssemblyInfo.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.Views.pdb
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.csproj.CopyComplete
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.StaticWebAssets.Manifest.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.StaticWebAssets.xml
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.dll
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.pdb
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.genruntimeconfig.cache
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Cart\PreviousOrders.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Members\List.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_CommentsDetails.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_OrderDetails.cshtml.g.cs
+F:\ITI\intake 3\Graduation Project\newVersion\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Update.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\appsettings.json
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\libman.json
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.exe
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.deps.json
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.runtimeconfig.json
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.runtimeconfig.dev.json
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.pdb
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.Views.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.Views.pdb
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.csprojAssemblyReference.cache
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.AssemblyInfoInputs.cache
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.AssemblyInfo.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.csproj.CoreCompileInputs.cache
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.MvcApplicationPartsAssemblyInfo.cache
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.RazorAssemblyInfo.cache
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.RazorAssemblyInfo.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.TagHelpers.input.cache
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.TagHelpers.output.cache
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.RazorCoreGenerate.cache
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Auth\ChangePassword.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Auth\Login.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\Add.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brands\List.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\List.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Dashboard.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Members\List.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\List.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Add.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\ListOverBrands.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\ListOverCategories.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Update.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_CommentsDetails.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_OrderDetails.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Cart\DisplayCart.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Cart\PreviousOrders.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetCategoryItems.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetDayDeals.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Product\GetComments.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\Product\GetFavourite.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Brand.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Category.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Layout.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Search.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_subLayout.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.RazorTargetAssemblyInfo.cache
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.RazorTargetAssemblyInfo.cs
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.Views.pdb
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.csproj.CopyComplete
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.StaticWebAssets.Manifest.cache
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.StaticWebAssets.xml
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.dll
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.pdb
+F:\01-myfiles\iti\Source code\OnlineShopping\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.genruntimeconfig.cache

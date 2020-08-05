@@ -1,0 +1,11 @@
+﻿@model OnlineShopping.Persistence.ViewModels.HomeViewModel
+
+
+@foreach (var item in Model.brands)
+{
+    <div class="item">
+        <div class="cl_logo">
+            <img src="~/Uploads/@item.ImagePath" style="width:163px;height:85px" alt="cl_logo">
+        </div>
+    </div>
+}
